@@ -32,4 +32,4 @@ const ShoeCard = ({imgURL,ChangeBigShoeImage,
   )
 }
 
-export default ShoeCard;
+export default ShoeCard
