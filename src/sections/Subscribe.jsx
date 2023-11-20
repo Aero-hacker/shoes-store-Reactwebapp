@@ -8,4 +8,4 @@ const Subscribe = () => {
   )
 }
 
-export default Subscribe
+export default Subscribe;
