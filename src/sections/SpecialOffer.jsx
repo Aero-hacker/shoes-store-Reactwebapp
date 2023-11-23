@@ -1,4 +1,4 @@
-import Button from "../components/Button";
+//import Button from "../components/Button";
 import { offer } from "../assets/images";
 
 const SpecialOffer = () => {
@@ -49,4 +49,4 @@ const SpecialOffer = () => {
   )
 }
 
-export default SpecialOffer;
+export default SpecialOffer
