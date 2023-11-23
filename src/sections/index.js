@@ -15,4 +15,4 @@ export {
     SuperQuality,
     Services,
     SpecialOffer
-}
+};
