@@ -8,4 +8,4 @@ const CustomerReviews = () => {
   )
 }
 
-export default CustomerReviews
+export default CustomerReviews;
